@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be6f9c4-fcf7-4c47-8555-04c29a98931d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DebuggingExercises/QuartsToGallons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DebuggingExercises/QuartsToGallonsInteractive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebuggingExercises/DebugTwo1.java" afterPath="$PROJECT_DIR$/DebuggingExercises/DebugTwo1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebuggingExercises/DebugTwo2.java" afterPath="$PROJECT_DIR$/DebuggingExercises/DebugTwo2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebuggingExercises/DebugTwo3.java" afterPath="$PROJECT_DIR$/DebuggingExercises/DebugTwo3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DebuggingExercises/DebugTwo4.java" afterPath="$PROJECT_DIR$/DebuggingExercises/DebugTwo4.java" />
-    </list>
+    <list default="true" id="3be6f9c4-fcf7-4c47-8555-04c29a98931d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -369,12 +361,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502406547670</updated>
-      <workItem from="1502406550547" duration="3887000" />
+      <workItem from="1502406550547" duration="3947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3887000" />
+    <option name="totallyTimeSpent" value="3947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
