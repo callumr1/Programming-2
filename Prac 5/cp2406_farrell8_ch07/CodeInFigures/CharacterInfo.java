@@ -1,8 +1,12 @@
+import java.util.Scanner;
+
 public class CharacterInfo
 {
    public static void main(String[] args)
    {
-      char aChar = 'C';
+      Scanner reader = new Scanner(System.in);
+      System.out.println("Enter a Character you would like to test >>>");
+      char aChar = reader.next().charAt(0);
       System.out.println("The character is " + aChar);
       if(Character.isUpperCase(aChar))
          System.out.println(aChar + " is uppercase");

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cp2406_farrell8_ch07/DebuggingExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp2406_farrell8_ch07/CodeInFigures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp2406_farrell8_ch07/Programming Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp2406_farrell8_ch08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp2406_farrell8_ch07" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
