@@ -1,3 +1,5 @@
+package CodeInFigures;
+
 public class PassArray
 {
    public static void main(String[] args)
