@@ -1,2 +1,2 @@
-# Programming-2 Pracs and Assignments
+# Programming-2 Pracs
 # By Callum Roberrtson
